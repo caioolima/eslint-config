@@ -14,7 +14,7 @@
 
 Install dependencies:
 ```
-npm i -D eslint @rocketseat/eslint-config
+npm i -D eslint @caioolima/eslint-config
 ```
 Inside `.eslintrc.json`
 ```
